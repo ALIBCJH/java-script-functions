@@ -18,8 +18,7 @@ console.log("Juma is learning Java script");
 const printMeAgainWithParam = function(a, b){
     console.log(a, b);
 }
-
-
+  //RETURNING FUNCTION
   //RETURNING FUNCTION
   function  sum(a, b){
     return a+b;
